@@ -94,6 +94,11 @@
             "value": "",
             "required": true
         },
+        "OWNER_NAME": {
+            "description": "Your name For Start Function",
+          "value": "",
+          "required": false  
+        }
         "HEROKU_API_KEY": {
             "description": "Your Heroku api key to update your bot",
             "value": "",
@@ -104,11 +109,7 @@
           "value": "",
           "required": false  
         }
-        "OWNER_NAME": {
-            "description": "Your name For Start Function",
-          "value": "",
-          "required": false  
-        }
+       
     },
   "addons": [
     {
