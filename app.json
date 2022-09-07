@@ -108,8 +108,7 @@
             "description": "Your app name to Update your bot",
           "value": "",
           "required": false  
-        }
-       
+        }      
     },
   "addons": [
     {
